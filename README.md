@@ -1,5 +1,7 @@
 # Cellular-Toolkit
-#How to Use
+
+**How to Use**
+
 Click on "main.py" (Python must be installed on the PC).
 
 Then click on "Calculate Cell Related Info" to calculate number of cells,
